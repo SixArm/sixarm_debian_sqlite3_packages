@@ -1,0 +1,18 @@
+sqlite3
+sqlite3-doc
+sqlite3-pcre
+sqlitebrowser
+sqliteman
+sqliteman-doc
+
+# Lib
+libsqlite3-0
+libsqlite3-dev
+libsqlite3-ocaml
+libsqlite3-ocaml-dev
+libdbd-sqlite3
+libdbd-sqlite3-perl
+libdbd-sqlite3-ruby
+libdbd-sqlite3-ruby1.8
+libdataobjects-sqlite3-ruby1.8
+
